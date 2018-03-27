@@ -11,7 +11,7 @@ namespace Selenium_C_Sharp
 {
     class Program
     {
-        public static String PATH = "C:/webdriver";
+        public static String PATH = "C:/webdriver/";
 
         public static IWebDriver driver = new ChromeDriver(PATH);
 
