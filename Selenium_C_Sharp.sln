@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_C_Sharp", "Selenium_C_Sharp\Selenium_C_Sharp.csproj", "{0238035F-F3D5-4BB6-85DC-F8327012AD59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0238035F-F3D5-4BB6-85DC-F8327012AD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0238035F-F3D5-4BB6-85DC-F8327012AD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0238035F-F3D5-4BB6-85DC-F8327012AD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0238035F-F3D5-4BB6-85DC-F8327012AD59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB93ED96-603B-48FD-AFF1-9112C0BD8E02}
+	EndGlobalSection
+EndGlobal
