@@ -100,23 +100,28 @@ namespace Selenium_C_Sharp
         public static void New_Select_Day()
         {
             IReadOnlyCollection<IWebElement> elements = Program.driver.FindElements(By.ClassName("js-day"));
-            //find the first element that doesnt have a div with a class of is-disabled
+            //go through the array until you find an element or until you get to the end
+            //for (int i = 0; i < 10; i++)
+            int i = 0;
+            // do {
             foreach (IWebElement element in elements)
             {
                IWebElement DivElement = element.FindElement(By.TagName("div"));
                 
                //Console.WriteLine(DivElement.GetAttribute("Class"));
-               if (!DivElement.GetAttribute("Class").Contains("is-disabled")) 
+               if (!DivElement.GetAttribute("Class").Contains("is-disabled") && i == 0) 
                {
                    Actions actions = new Actions(Program.driver);
                    actions.MoveToElement(DivElement);
                    DivElement.Click();
+                   i++;
 
                }
 
 
 
             }
+           
 
         }
 
