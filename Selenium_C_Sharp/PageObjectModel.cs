@@ -110,7 +110,7 @@ namespace Selenium_C_Sharp
                {
                    Actions actions = new Actions(Program.driver);
                    actions.MoveToElement(DivElement);
-                   
+                   DivElement.Click();
 
                }
 
