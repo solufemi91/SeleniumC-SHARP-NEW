@@ -105,39 +105,30 @@ namespace Selenium_C_Sharp
             
             do
             {
-               IReadOnlyCollection<IWebElement> elements = Program.driver.FindElements(By.ClassName("js-day"));
+                IReadOnlyCollection<IWebElement> elements = Program.driver.FindElements(By.ClassName("js-day"));
    
             
             
-            foreach (IWebElement element in elements)
-            {
-               IWebElement DivElement = element.FindElement(By.TagName("div"));
+                foreach (IWebElement element in elements)
+                {
+
+                   IWebElement DivElement = element.FindElement(By.TagName("div"));
+
+                   if (!DivElement.GetAttribute("Class").Contains("is-disabled") && i == 0) 
+                   {
+                       Actions actions = new Actions(Program.driver);
+                       actions.MoveToElement(DivElement);
+                       DivElement.Click();
+                       i++;
+                   }
+                }
                 
-               // click the first avaliable div element and then stop
-               if (!DivElement.GetAttribute("Class").Contains("is-disabled") && i == 0) 
-               {
-                   Actions actions = new Actions(Program.driver);
-                   actions.MoveToElement(DivElement);
-                   DivElement.Click();
-                   i++;
-
-               }
-            }
-
-                //need to include code that will go to the next month if no day can be found
-               x++;
-               Select_Month(Months[x]);
-             
-               
-               
-            
+                x++;
+                Select_Month(Months[x]);
+                
                 
             } while (i == 0 || x < 9);
-            // do code until i = 1 and x = 10
             
-           
-           
-
         }
 
         public static void Select_Nights(int Nights)
