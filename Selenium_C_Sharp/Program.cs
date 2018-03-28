@@ -39,7 +39,7 @@ namespace Selenium_C_Sharp
             PageObjectModel.Click_Date_Dropdown();
 
             //select month
-            PageObjectModel.Select_Month("May");
+            PageObjectModel.Select_Month("Apr");
 
 
             //PageObjectModel.Select_Day("31");

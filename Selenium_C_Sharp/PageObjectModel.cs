@@ -100,10 +100,9 @@ namespace Selenium_C_Sharp
         public static void New_Select_Day()
         {
             IReadOnlyCollection<IWebElement> elements = Program.driver.FindElements(By.ClassName("js-day"));
-            //go through the array until you find an element or until you get to the end
-            //for (int i = 0; i < 10; i++)
+   
             int i = 0;
-            // do {
+            // need to include code that will go to the next month if no day can be found
             foreach (IWebElement element in elements)
             {
                IWebElement DivElement = element.FindElement(By.TagName("div"));
