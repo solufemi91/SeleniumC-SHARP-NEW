@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Selenium_C_Sharp
 {
-    class PageObjectModel { 
+    class PageObjectModel {
 
 
         public static void ClickPopUp()
@@ -104,13 +104,13 @@ namespace Selenium_C_Sharp
             foreach (IWebElement element in elements)
             {
                IWebElement DivElement = element.FindElement(By.TagName("div"));
-                
+
                //Console.WriteLine(DivElement.GetAttribute("Class"));
-               if (!DivElement.GetAttribute("Class").Contains("is-disabled")) 
+               if (!DivElement.GetAttribute("Class").Contains("is-disabled"))
                {
                    Actions actions = new Actions(Program.driver);
                    actions.MoveToElement(DivElement);
-                   DivElement.Click();
+                   
 
                }
 
@@ -132,7 +132,7 @@ namespace Selenium_C_Sharp
         {
             IReadOnlyCollection<IWebElement> elements = Program.driver.FindElements(By.ClassName("search-box__submit"));
             elements.ElementAt(0).Click();
-            
+
         }
 
 
