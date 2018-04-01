@@ -45,6 +45,23 @@ namespace Selenium_C_Sharp
             }
         }
 
+        public static void Random_Click_Departure_Airport()
+        {
+            IReadOnlyCollection<IWebElement> elements = Program.driver.FindElements(By.ClassName("checkbox-button-group__item"));
+            
+            Random rnd = new Random();
+            int RandomInt = rnd.Next(9);
+            
+            IWebElement Airport = elements.ElementAt(RandomInt);
+            
+            
+            Actions actions = new Actions(Program.driver);
+            actions.MoveToElement(Airport);
+            Airport.Click();
+            
+            
+        }
+
         public static void Click_Arrival_Airport(String Location)
         {
             IReadOnlyCollection<IWebElement> elements = Program.driver.FindElements(By.ClassName("checkbox-button-group__item--indent"));
