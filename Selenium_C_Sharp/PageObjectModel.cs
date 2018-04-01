@@ -105,6 +105,7 @@ namespace Selenium_C_Sharp
             
             do
             {
+                Select_Month(Months[x]);
                 IReadOnlyCollection<IWebElement> elements = Program.driver.FindElements(By.ClassName("js-day"));
    
             
@@ -124,7 +125,7 @@ namespace Selenium_C_Sharp
                 }
                 
                 x++;
-                Select_Month(Months[x]);
+                
                 
                 
             } while (i == 0 || x < 9);
