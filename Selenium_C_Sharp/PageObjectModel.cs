@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Selenium_C_Sharp
 {
-    class PageObjectModel { 
+    public  class  PageObjectModel { 
 
 
         public static void ClickPopUp()

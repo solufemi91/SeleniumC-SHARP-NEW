@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Selenium_C_Sharp
 {
-    class Program
+    public class Program
     {
         public static String PATH = "C:/webdriver/";
 
@@ -27,10 +27,10 @@ namespace Selenium_C_Sharp
             PageObjectModel.Click_List_Departure();
 
             // click a airport
-           // PageObjectModel.Click_Departure_Airport("(LBA)");
+            PageObjectModel.Click_Departure_Airport("(LBA)");
 
             // click a random airport
-            PageObjectModel.Random_Click_Departure_Airport();
+            //PageObjectModel.Random_Click_Departure_Airport();
 
             // click the dropdown for arrival airports
             PageObjectModel.Click_List_Arrival();

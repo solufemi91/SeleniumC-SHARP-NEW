@@ -22,3 +22,15 @@ C:\Users\DAPO\source\repos\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Seleni
 C:\Users\DAPO\source\repos\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.csproj.CopyComplete
 C:\Users\DAPO\source\repos\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.exe
 C:\Users\DAPO\source\repos\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.pdb
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\chromedriver.exe
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\chromedriver-license.txt
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\Selenium_C_Sharp.exe.config
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\Selenium_C_Sharp.exe
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\Selenium_C_Sharp.pdb
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\WebDriver.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\WebDriver.xml
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.csprojResolveAssemblyReference.cache
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.csproj.CopyComplete
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.exe
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.pdb

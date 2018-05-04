@@ -1,14 +1,36 @@
 ﻿using System;
+using OpenQA.Selenium;
+using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+using Selenium_C_Sharp;
+using System.Linq;
 
 namespace UnitTests
 {
-    [TestClass]
-    public class UnitTest1
+
+    class PageObjectModel
     {
-        [TestMethod]
-        public void TestMethod1()
+
+
+        public static void ClickPopUp()
         {
+            IReadOnlyCollection<IWebElement> element = Program.driver.FindElements(By.ClassName("j017-close-lightbox"));
+            element.ElementAt(0).Click();
         }
     }
+
+
+        [TestFixture]
+    public class MyFirstTest
+    {
+        [Test]
+        public void TestClickPopUp()
+        {
+            
+        }
+    }
+
+
 }
+    
