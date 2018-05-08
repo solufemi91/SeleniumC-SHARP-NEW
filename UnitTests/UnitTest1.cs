@@ -13,19 +13,20 @@ namespace UnitTests
     {
 
 
-        public static void ClickPopUp()
+        public static void Click_List_Departure()
         {
-            IReadOnlyCollection<IWebElement> element = Program.driver.FindElements(By.ClassName("j017-close-lightbox"));
+            IReadOnlyCollection<IWebElement> element = Program.driver.FindElements(By.ClassName("search-box-group__link"));
             element.ElementAt(0).Click();
         }
+
     }
 
 
-        [TestFixture]
+    [TestFixture]
     public class MyFirstTest
     {
         [Test]
-        public void TestClickPopUp()
+        public void TestDropDown()
         {
             
         }

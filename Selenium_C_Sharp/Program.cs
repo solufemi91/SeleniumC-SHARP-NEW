@@ -26,6 +26,8 @@ namespace Selenium_C_Sharp
             // click the dropdown for departure airports
             PageObjectModel.Click_List_Departure();
 
+            PageObjectModel.Check_Choose_departure_modal();
+
             // click a airport
             PageObjectModel.Click_Departure_Airport("(LBA)");
 

@@ -24,6 +24,23 @@ namespace Selenium_C_Sharp
             element.ElementAt(0).Click();
         }
 
+        public static bool Check_Choose_departure_modal()
+        {
+            bool holder = false;
+            IReadOnlyCollection<IWebElement> elements = Program.driver.FindElements(By.XPath("//*[@class='modal-box__heading']"));
+            foreach (IWebElement element in elements)
+            {
+                if (element.Text.Contains("Choose departure"))
+
+                {
+                    holder = element.Displayed;
+                }
+            }
+            return holder;
+        }
+
+        
+
         public static void Click_List_Arrival()
         {
             IReadOnlyCollection<IWebElement> element = Program.driver.FindElements(By.ClassName("search-box-group__link"));
