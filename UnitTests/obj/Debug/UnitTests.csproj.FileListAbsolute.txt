@@ -20,3 +20,10 @@ C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\o
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\obj\Debug\UnitTests.dll
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\chromedriver.exe
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\chromedriver-license.txt
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\Selenium_C_Sharp.exe
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\WebDriver.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\Selenium_C_Sharp.pdb
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\Selenium_C_Sharp.exe.config
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\WebDriver.xml
