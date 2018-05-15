@@ -15,7 +15,6 @@ C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\b
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\nunit.framework.pdb
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\nunit.framework.xml
-C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\obj\Debug\UnitTests.dll
@@ -27,3 +26,4 @@ C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\b
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\Selenium_C_Sharp.pdb
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\Selenium_C_Sharp.exe.config
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\WebDriver.xml
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
