@@ -6,11 +6,13 @@ namespace UnitTests
 {
     [Binding]
     public class MyFirstFeatureSteps
+
     {
+        private Calculator calculator = new Calculator();
         [Given(@"I have entered (.*) into the calculator")]
-        public void GivenIHaveEnteredIntoTheCalculator(int p0)
+        public void GivenIHaveEnteredIntoTheCalculator(int number)
         {
-            ScenarioContext.Current.Pending();
+            calculator.FirstNumber = number;
         }
         
         [Given(@"I have also entered (.*) into the calculator")]
