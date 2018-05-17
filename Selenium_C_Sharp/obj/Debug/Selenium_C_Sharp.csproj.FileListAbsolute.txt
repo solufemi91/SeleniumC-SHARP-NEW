@@ -34,3 +34,11 @@ C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.exe
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.pdb
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\obj\Debug\Selenium_C_Sharp.csprojAssemblyReference.cache
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\Default.srprofile
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\System.ValueTuple.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Selenium_C_Sharp\bin\Debug\Newtonsoft.Json.xml

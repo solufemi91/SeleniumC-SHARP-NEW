@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_C_Sharp", "Seleniu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{EEBF8AEE-4594-4B21-B578-3A02B1E4C2A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{E035BA6B-A132-456D-8F5F-C94BF5591537}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EEBF8AEE-4594-4B21-B578-3A02B1E4C2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEBF8AEE-4594-4B21-B578-3A02B1E4C2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEBF8AEE-4594-4B21-B578-3A02B1E4C2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E035BA6B-A132-456D-8F5F-C94BF5591537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E035BA6B-A132-456D-8F5F-C94BF5591537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E035BA6B-A132-456D-8F5F-C94BF5591537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E035BA6B-A132-456D-8F5F-C94BF5591537}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

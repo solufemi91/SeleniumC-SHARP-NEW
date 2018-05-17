@@ -27,3 +27,12 @@ C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\b
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\Selenium_C_Sharp.exe.config
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\WebDriver.xml
 C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\Default.srprofile
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\UnitTests\bin\Debug\Newtonsoft.Json.xml

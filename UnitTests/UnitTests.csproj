@@ -80,6 +80,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>MyFirstFeature.feature</DependentUpon>
     </Compile>
+    <Compile Include="MyFirstFeatureSteps.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -102,6 +103,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Example\Example.csproj">
+      <Project>{e035ba6b-a132-456d-8f5f-c94bf5591537}</Project>
+      <Name>Example</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Selenium_C_Sharp\Selenium_C_Sharp.csproj">
       <Project>{0238035f-f3d5-4bb6-85dc-f8327012ad59}</Project>
       <Name>Selenium_C_Sharp</Name>
