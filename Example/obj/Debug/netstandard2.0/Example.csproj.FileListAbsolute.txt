@@ -1,0 +1,9 @@
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Example\bin\Debug\netstandard2.0\Example.deps.json
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Example\bin\Debug\netstandard2.0\Example.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Example\bin\Debug\netstandard2.0\Example.pdb
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Example\obj\Debug\netstandard2.0\Example.csprojAssemblyReference.cache
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Example\obj\Debug\netstandard2.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Example\obj\Debug\netstandard2.0\Example.AssemblyInfoInputs.cache
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Example\obj\Debug\netstandard2.0\Example.AssemblyInfo.cs
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Example\obj\Debug\netstandard2.0\Example.dll
+C:\Users\Steven.Olufemi-Oluka\Desktop\MyProjects\SeleniumC-SHARP-NEW\Example\obj\Debug\netstandard2.0\Example.pdb
